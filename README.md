@@ -25,3 +25,9 @@ Loop: The digitalWrite() function turns the LED on and off, while the delay() fu
 3. Connect the components as described in the Circuit Diagram section.
 4. Copy and paste the Arduino code into the code editor.
 5. Start the simulation to see the LED blink.
+
+
+https://github.com/user-attachments/assets/e7325d15-229c-4e18-a175-b28011238527
+
+
+
